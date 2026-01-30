@@ -13,9 +13,6 @@
     {% if link.notes %}
     <strong style="color:#e74d3c; margin-left: 10px;">{{ link.notes }}</strong>
     {% endif %}
-    {% if link.pdf %}
-    <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; margin-left: 10px;">PDF</a>
-    {% endif %}
     <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; margin-left: 10px;">BibTex</a>
     {% if link.others %}
     <span style="margin-left: 10px;">{{ link.others }}</span>
@@ -23,8 +20,6 @@
   </div>
 </li>
 <br>
-
 {% endfor %}
-
 </ol>
 </div>

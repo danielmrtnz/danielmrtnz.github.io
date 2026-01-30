@@ -4,20 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
-
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+I am a Ph.D. student and Profesor Ayudante (Teaching Assistant) at Universidad Autónoma de Madrid, supervised by Daniel Macías Castillo. I am expected to graduate in 2026. My area of research is number theory, more specifically the theory of Drinfeld modules. 
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+## News
+
+- **[Jan. 2026]** Looking for a postdoc position in a related field.
+
+
+
+

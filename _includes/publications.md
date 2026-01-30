@@ -8,17 +8,17 @@
 <li>
   <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
   <div class="author">{{ link.authors }}</div>
-  <div class="periodical"><em>{{ link.journal }}</em></div>
-  <div class="links">
-    {% if link.pdf %} 
-    <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+  <div class="details">
+    <em>{{ link.journal }}</em>
+    {% if link.notes %}
+    <strong style="color:#e74d3c; margin-left: 10px;">{{ link.notes }}</strong>
     {% endif %}
-    <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-    {% if link.notes %} 
-    <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
+    {% if link.pdf %}
+    <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; margin-left: 10px;">PDF</a>
     {% endif %}
-    {% if link.others %} 
-    {{ link.others }}
+    <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px; margin-left: 10px;">BibTex</a>
+    {% if link.others %}
+    <span style="margin-left: 10px;">{{ link.others }}</span>
     {% endif %}
   </div>
 </li>

@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<h2 id="publications" style="margin: 2px 0px -50px;">Publications</h2>
 
 <div class="publications">
 <ol class="bibliography" style="margin-top: 0; margin-bottom: 0; list-style-type: decimal; padding-left: 25px;">

@@ -1,11 +1,11 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
 <div class="publications">
-<ol class="bibliography" style="margin-top: 0; margin-bottom: 0;">
+<ol class="bibliography" style="margin-top: 0; margin-bottom: 0; list-style-type: decimal; padding-left: 25px;">
 
 {% for link in site.data.publications.main %}
 
-<li style="margin-bottom: 10px;">
+<li style="margin-bottom: 1px; display: list-item;">
   <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
   <div class="author">{{ link.authors }}</div>
   <div class="details">

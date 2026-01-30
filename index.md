@@ -11,7 +11,7 @@ I am a Ph.D. student and Profesor Ayudante (Teaching Assistant) at Universidad A
 
 ## News
 
-- **[Jan. 2026]** Looking for a postdoc position in a related field.
+- **[Jan. 2026]** Looking for a postdoc position. 
 
 
 

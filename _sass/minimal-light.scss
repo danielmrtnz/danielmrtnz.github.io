@@ -274,7 +274,7 @@ h1 {
 a {
   color:#39c;
   text-decoration:none;
-  font-size: 18px; /* Added */
+  /* font-size: 18px; /* Added */
 }
 
 a:hover {
@@ -308,13 +308,13 @@ blockquote {
   margin:0;
   padding:0 0 0 20px;
   font-style:italic;
-  font-size: 18px; /* Added */
+  /* font-size: 18px; /* Added */
 }
 
 code, pre {
   font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
   color:#333;
-  font-size: 16px; /* Added */
+  /* font-size: 16px; /* Added */
 }
 
 pre {
@@ -324,7 +324,7 @@ pre {
   border-radius:5px;
   border:1px solid #e5e5e5;
   overflow-x: auto;
-  font-size: 16px; /* Added */
+  /* font-size: 16px; /* Added */
 }
 
 table {
@@ -336,18 +336,18 @@ th, td {
   text-align:left;
   padding:5px 10px;
   border-bottom:1px solid #e5e5e5;
-  font-size: 18px; /* Added */
+  /* font-size: 18px; /* Added */
 }
 
 dt {
   color:#444;
   font-weight:500;
-  font-size: 18px; /* Added */
+  /* font-size: 18px; /* Added */
 }
 
 th {
   color:#444;
-  font-size: 18px; /* Added */
+  /* font-size: 18px; /* Added */
 }
 
 @media (prefers-color-scheme: dark) {

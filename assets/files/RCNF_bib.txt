@@ -1,0 +1,7 @@
+@unpublished{RCNF,
+  title = {The refined class number formula for Drinfeld modules},
+  author = {{de Frutos-Fernández}, María Inés and {Macías Castillo}, Daniel and {Martínez Marqués}, Daniel},
+  note = {Accepted to Compositio Mathematica},
+  year = {2023},
+  url = {https://arxiv.org/abs/2309.17256},
+}

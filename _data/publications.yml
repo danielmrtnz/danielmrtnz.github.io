@@ -2,8 +2,6 @@ main:
 
   - title: The Refined Class Number Formula for Drinfeld Modules.
     authors: Mª Inés de Frutos Fernández, Daniel Macías Castillo and <strong>Daniel Martínez Marqués</strong>.
-    journal: Compositio Mathematica
-    volume: 162
-    date: 2026
+    journal: Compositio Mathematica 162 (2026).
     pdf: https://arxiv.org/pdf/2309.17256
     bibtex: /assets/files/RCNF_bib.txt
